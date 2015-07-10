@@ -1,0 +1,26 @@
+{
+  "name": "dir-sync",
+  "version": "1.0.0",
+  "description": "One-Way-Sync folders",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamingCoder/dir-sync.git"
+  },
+  "keywords": [
+    "sync",
+    "file"
+  ],
+  "author": "Tobias Meyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GamingCoder/dir-sync/issues"
+  },
+  "homepage": "https://github.com/GamingCoder/dir-sync#readme"
+}
