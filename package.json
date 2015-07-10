@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/GamingCoder/dir-sync/issues"
   },
-  "homepage": "https://github.com/GamingCoder/dir-sync#readme"
+  "homepage": "https://github.com/GamingCoder/dir-sync#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
 }
